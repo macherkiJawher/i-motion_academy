@@ -1,0 +1,5 @@
+.venv/
+docs/
+ETUDE_MODULE_RECLAMATIONS.md
+*.rar
+*.zip
